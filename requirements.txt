@@ -1,0 +1,13 @@
+# Bibliotecas comuns para Desenvolvimento Web e APIs
+fastapi==0.110.0
+uvicorn==0.28.0
+
+# Manipulação de dados e Inteligência Artificial
+pandas>=2.2.0
+numpy>=1.26.0
+
+# Requisições HTTP e Integrações
+requests~=2.31.0
+
+# Opcional: dependências específicas para ambiente de testes
+pytest==8.1.1
